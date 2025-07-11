@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @malakDanty
-- 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m malak
 - 📫 How to reach me https://github.com/malakDanty
 
 <!---
